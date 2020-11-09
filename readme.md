@@ -12,7 +12,7 @@ Rename "config/config.env.env" to "config/config.env" and update the values/sett
 # Run in dev mode
 npm run dev
 
-# Rin in prod mode
+# Run in prod mode
 npm start
 ```
 
